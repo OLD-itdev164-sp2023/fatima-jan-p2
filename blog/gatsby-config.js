@@ -7,7 +7,7 @@ module.exports = {
     title: `History of Spain`,
     description: `ITDEV-164 Gatsby Blog`,
     author: `Fatima Jan`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io`,
     contact: {
       name: `Fatima Jan`,
       company: `Blogs Inch.`,
