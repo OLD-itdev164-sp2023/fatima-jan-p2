@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => (
     {
       data.allContentfulBlogPost.edges.map(edge => (
         <li key={edge.node.id}>
-          <Link to={edge.node.slug}>{edge.node.title}</Link>
+          <Link to={edge.node.slug} prefetch={false}>{edge.node.title}</Link>
           <div>
           <GatsbyImage
           image={edge.node.heroImage.gatsbyImageData} alt={``}
