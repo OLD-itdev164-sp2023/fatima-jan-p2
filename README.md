@@ -1,2 +1,2 @@
-Starting another project on Contentful updated version
+Starting another project 
 # fatima-jan-p2
